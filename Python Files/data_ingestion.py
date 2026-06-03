@@ -3,7 +3,7 @@ import requests
 from pathlib import Path
 import os
 
-Data_path="data/raw"
+Data_path="../data/raw"
 
 csv_files=[f for f in os.listdir(Data_path) if f.endswith(".csv")]
 for file in csv_files:

@@ -3,7 +3,7 @@ import requests
 from pathlib import Path
 import os
 
-Data_path="data/raw"
+Data_path="../data/raw"
 
 Funds={
     "HDFC Top 100":125497,
