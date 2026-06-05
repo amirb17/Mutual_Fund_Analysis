@@ -288,6 +288,83 @@ Generated **17+ analytical charts** including:
 * Git & GitHub Workflow
 
 ---
+🚀 Day 4 Completed
+Fund Performance Analytics
+
+Performed comprehensive performance evaluation of mutual fund schemes using return, risk, and benchmark-based analytics.
+
+📈 Daily Return Analysis
+Calculated daily returns for all mutual fund schemes using historical NAV data.
+Validated return distributions and identified normal market behavior patterns.
+Generated return distribution visualizations for risk assessment.
+📊 CAGR Analysis
+Computed 1-Year, 3-Year, and 5-Year CAGR for all schemes.
+Compared long-term wealth creation potential across mutual fund categories.
+Ranked funds based on historical annualized performance.
+Identified top-performing funds using CAGR metrics.
+⚖️ Risk-Adjusted Performance Analysis
+Sharpe Ratio
+Calculated Sharpe Ratio using a 6.5% risk-free rate.
+Evaluated risk-adjusted returns across all schemes.
+Ranked funds based on return generated per unit of risk.
+Sortino Ratio
+Calculated Sortino Ratio using downside volatility.
+Measured fund performance considering only negative-return periods.
+Identified funds with superior downside-risk management.
+📉 Alpha & Beta Analysis
+Performed benchmark-relative analysis against Nifty 100.
+Calculated Alpha values to measure excess returns.
+Computed Beta values to evaluate market sensitivity.
+Generated Alpha-Beta comparison tables and distributions.
+📉 Maximum Drawdown Analysis
+Calculated maximum drawdown for all schemes.
+Measured downside risk during adverse market conditions.
+Identified funds with the strongest capital preservation characteristics.
+Compared drawdown behavior across categories.
+🏆 Fund Scorecard Development
+
+Developed a composite scoring framework based on:
+
+30% – 3-Year Return Rank
+25% – Sharpe Ratio Rank
+20% – Alpha Rank
+15% – Expense Ratio Rank
+10% – Maximum Drawdown Rank
+
+Generated standardized fund scores on a 0–100 scale and ranked all mutual fund schemes.
+
+📊 Benchmark Comparison
+Compared top-performing funds against Nifty 50 and Nifty 100 benchmarks.
+Calculated tracking error for benchmark-relative performance measurement.
+Evaluated active fund management effectiveness.
+Identified schemes outperforming benchmark indices.
+🔍 Key Insights Generated
+Top-performing funds consistently delivered strong CAGR and Sharpe Ratio values.
+Several schemes generated positive Alpha, indicating benchmark outperformance.
+Most funds exhibited Beta values close to 1, reflecting market-linked behavior.
+Risk-adjusted performance varied significantly across categories.
+Funds with lower drawdowns generally demonstrated superior long-term stability.
+The Fund Scorecard successfully identified consistently high-performing schemes.
+📊 Visualizations Created
+
+Generated performance analytics visualizations including:
+
+Daily Return Distribution
+Top CAGR Funds
+Sharpe Ratio Ranking
+Sortino Ratio Ranking
+Alpha Distribution
+Beta Distribution
+Maximum Drawdown Analysis
+Risk vs Return Scatter Plot
+Fund Scorecard Ranking
+Benchmark Comparison Analysis
+Deliverables
+04_Performance_Analytics.ipynb
+fund_scorecard.csv
+alpha_beta.csv
+benchmark_comparison.png
+Performance Analytics Insights Report
 
 ## 👨‍💻 Author
 
